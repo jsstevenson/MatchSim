@@ -5,6 +5,7 @@ verify_ssl = true
 
 [dev-packages]
 pytest = "*"
+matchsim = {editable = true, path = "."}
 
 [packages]
 numpy = "*"
